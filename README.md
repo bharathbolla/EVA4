@@ -5,7 +5,7 @@
 ### Total number of parameters 12,400
 ### Total 7 conv2d layers.
 
-Model Architecture
+
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
