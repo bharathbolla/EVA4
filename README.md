@@ -4,4 +4,8 @@
 ### Used SGD with momentum of 0.9
 ### Acheived 90% test accuracy on 25th epoch
 ### Run GradCAM on 25 misclassified images
+![alt text](https://github.com/bharathbolla/EVA4/blob/S10/Misclassified%20Images/gradcam_incorrect_0_tfrog_pdeer.png)
+
+### Loss-Accuracy Curves
 ![alt text](https://github.com/bharathbolla/EVA4/blob/S10/assignment_10%20train_test_plot.png)
+
